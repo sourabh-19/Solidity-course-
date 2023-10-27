@@ -17,7 +17,7 @@ This Solidity smart contract, named "MySoupToken," is designed to create a basic
 
 ## Authors
 
-Contributor: Sourabh Agarwal, mail-financesourabh19@gmail.com
+Contributor: Sourabh Agarwal, Contact- financesourabh19@gmail.com
 
 
 
